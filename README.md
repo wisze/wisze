@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on IoT stuff.
 - 💬 Ask me about standards, i'm especially interested in semantic standards to describe data and knowledge.
 - 📫 You can reach me at edwin@wisze.org
+- 🏢 I have professional alter ego at https://github.com/edwinwisse
